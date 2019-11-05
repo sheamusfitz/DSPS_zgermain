@@ -14,3 +14,6 @@ Improvements:
 
 Quality: Overall I have few complaints above this plot, and the ones I do are minor. It is easy to read the text and numbers. 
 The color selection is good for a continuous parameter (and colorblind compliant. The shape of the plot is able to be determined.
+
+
+![Zach's plot](https://raw.githubusercontent.com/ZachGermain/DSPS_zgermain/master/HW8_zGermain/eaAlbedoAst.png)
